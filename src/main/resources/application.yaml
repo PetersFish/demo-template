@@ -1,0 +1,6 @@
+server:
+  port: 13799
+
+spring:
+  application:
+    name: demo
